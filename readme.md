@@ -33,87 +33,22 @@ this is my learn go journey challage by try to write code in [go by example](htt
 - [x] Non-Blocking Channel Operations
 - [x] Closing Channels
 - [x] Range over Channels
-- [x] Timers
+- [j] Timers
 - [x] Tickers
 - [x] Worker Pools
 - [x] Rate Limiting
 - [x] Atomic Counters
 - [x] Mutexes
 - [x] Stateful Goroutines
-- [ ] Sorting
-- [ ] Sorting by Functions
-- [ ] Panic
-- [ ] Defer
-- [ ] Collection Functions
-- [ ] String Functions
-- [ ] String Formatting
-- [ ] Regular Expressions
-- [ ] JSON
-- [ ] Time
-- [ ] Epoch
-- [ ] Time Formatting / Parsing
-- [ ] Random Numbers
-- [ ] Number Parsing
-- [ ] URL Parsing
-- [ ] SHA1 Hashes
-- [ ] Base64 Encoding
-- [ ] Reading Files
-- [ ] Writing Files
-- [ ] Line Filters
-- [ ] Command-Line Arguments
-- [ ] Command-Line Flags
-- [ ] Environment Variables
-- [ ] Spawning Processes
-- [ ] Exec'ing Processes
-- [ ] Signals
-- [ ] Exit
-- [ ] Hello World
-- [ ] Values
-- [ ] Variables
-- [ ] Constants
-- [ ] For
-- [ ] If/Else
-- [ ] Switch
-- [ ] Arrays
-- [ ] Slices
-- [ ] Maps
-- [ ] Range
-- [ ] Functions
-- [ ] Multiple Return Values
-- [ ] Variadic Functions
-- [ ] Closures
-- [ ] Recursion
-- [ ] Pointers
-- [ ] Structs
-- [ ] Methods
-- [ ] Interfaces
-- [ ] Errors
-- [ ] Goroutines
-- [ ] Channels
-- [ ] Channel Buffering
-- [ ] Channel Synchronization
-- [ ] Channel Directions
-- [ ] Select
-- [ ] Timeouts
-- [ ] Non-Blocking Channel Operations
-- [ ] Closing Channels
-- [ ] Range over Channels
-- [ ] Timers
-- [ ] Tickers
-- [ ] Worker Pools
-- [ ] Rate Limiting
-- [ ] Atomic Counters
-- [ ] Mutexes
-- [ ] Stateful Goroutines
-- [ ] Sorting
-- [ ] Sorting by Functions
-- [ ] Panic
-- [ ] Defer
-- [ ] Collection Functions
-- [ ] String Functions
-- [ ] String Formatting
-- [ ] Regular Expressions
-- [ ] JSON
+- [x] Sorting
+- [x] Sorting by Functions
+- [x] Panic
+- [x] Defer
+- [x] Collection Functions
+- [x] String Functions
+- [x] String Formatting
+- [x] Regular Expressions
+- [x] JSON
 - [ ] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
