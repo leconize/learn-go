@@ -49,9 +49,9 @@ this is my learn go journey challage by try to write code in [go by example](htt
 - [x] String Formatting
 - [x] Regular Expressions
 - [x] JSON
-- [ ] Time
-- [ ] Epoch
-- [ ] Time Formatting / Parsing
+- [x] Time
+- [x] Epoch
+- [x] Time Formatting / Parsing
 - [ ] Random Numbers
 - [ ] Number Parsing
 - [ ] URL Parsing
