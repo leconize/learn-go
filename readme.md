@@ -52,18 +52,18 @@ this is my learn go journey challage by try to write code in [go by example](htt
 - [x] Time
 - [x] Epoch
 - [x] Time Formatting / Parsing
-- [ ] Random Numbers
-- [ ] Number Parsing
-- [ ] URL Parsing
-- [ ] SHA1 Hashes
-- [ ] Base64 Encoding
-- [ ] Reading Files
+- [x] Random Numbers
+- [x] Number Parsing
+- [x] URL Parsing
+- [x] SHA1 Hashes
+- [x] Base64 Encoding
+- [x] Reading Files
 - [ ] Writing Files
 - [ ] Line Filters
 - [ ] Command-Line Arguments
 - [ ] Command-Line Flags
 - [ ] Environment Variables
 - [ ] Spawning Processes
-- [ ] Exec'ing Processes
+- [ ] Execing Processes
 - [ ] Signals
 - [ ] Exit
