@@ -58,10 +58,10 @@ this is my learn go journey challage by try to write code in [go by example](htt
 - [x] SHA1 Hashes
 - [x] Base64 Encoding
 - [x] Reading Files
-- [ ] Writing Files
-- [ ] Line Filters
-- [ ] Command-Line Arguments
-- [ ] Command-Line Flags
+- [x] Writing Files
+- [x] Line Filters
+- [x] Command-Line Arguments
+- [x] Command-Line Flags
 - [ ] Environment Variables
 - [ ] Spawning Processes
 - [ ] Execing Processes
