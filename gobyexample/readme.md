@@ -62,8 +62,8 @@ this is my learn go journey challage by try to write code in [go by example](htt
 - [x] Line Filters
 - [x] Command-Line Arguments
 - [x] Command-Line Flags
-- [ ] Environment Variables
-- [ ] Spawning Processes
+- [x] Environment Variables
+- [x] Spawning Processes
 - [ ] Execing Processes
 - [ ] Signals
 - [ ] Exit
